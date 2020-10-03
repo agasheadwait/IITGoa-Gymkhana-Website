@@ -60,3 +60,15 @@ footer{
   text-align: center;
 }
 
+#nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  transform: translate(-20%, 10%) rotate(45deg);
+  color: black;
+}
+
+#nav a {
+  color: black;
+  font-weight: bold;
+}
